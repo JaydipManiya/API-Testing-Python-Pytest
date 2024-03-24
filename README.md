@@ -1,7 +1,7 @@
 Generic API Automation framework using Python Pytest
 
 Setup:
-- Download and install Python3 () (Ignore the step if you already have python installed)
+- Download and install Python3 from [here](https://www.python.org/downloads/) (Ignore the step if you already have python installed)
 - Clone this repo, navigate to API-Testing-Python-Pytest folder.
 - Execute requirements.txt file to install all the dependent python libraries using following command and make it pass without any error: pip install -r requirements.txt
 
