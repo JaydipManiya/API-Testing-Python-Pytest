@@ -1,4 +1,6 @@
-Generic API Automation framework using Python Pytest
+API Automation using Python Pytest
+
+- This is generic API Automation framework using Python Pytest.
 
 Setup:
 - Download and install Python3 from [here](https://www.python.org/downloads/) (Ignore the step if you already have python installed)
