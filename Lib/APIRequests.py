@@ -3,7 +3,7 @@ This file contains common methods to execute API requests.
 """
 
 import requests
-from LoggerUtils import set_logger
+from .LoggerUtils import set_logger
 
 
 # Global defines
